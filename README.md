@@ -59,7 +59,7 @@ https://towardsdev.com/data-transfer-object-dto-in-spring-boot-c00678cc5946)
 
 
 ```bash
-  git clone git@github.com:yosri-k/NearestParkingsTest.git
+  git clone https://github.com/yosri-k/NearestParkingsTest.git
 ```
     
 ## Probléme non traité
